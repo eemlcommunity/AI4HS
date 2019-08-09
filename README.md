@@ -1,6 +1,10 @@
 # Artificial Intelligence for HighSchool (AI4HS)
 
+### by Viorica Patraucean
+
 The exercise in this repository covers basics about supervised machine learning, exemplified on image classification for MNIST dataset.
+
+The slides of the presentation from Galaciuc are [here](https://drive.google.com/open?id=1211d4EOPZf_9MOFSwiNpbMdOYV2AVZSL3I7xePwxB2s).
 
 Use [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb) to view, edit, and run them.
 

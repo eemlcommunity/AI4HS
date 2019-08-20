@@ -6,14 +6,13 @@ The exercise in this repository covers basics about supervised machine learning,
 
 The slides of the presentation from Galaciuc are [here](https://drive.google.com/open?id=1211d4EOPZf_9MOFSwiNpbMdOYV2AVZSL3I7xePwxB2s).
 
-Use [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb) to view, edit, and run them.
+Use [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb) to view, edit, and run the code.
 
-To access the exercises, please download them and place them in your Google Drive. The simplest way to do this is to check out the git repository, then use the "Folder Upload" tool in GDrive.
+Please download the code and place it in your Google Drive. The simplest way to do this is to check out the git repository, then use the "Folder Upload" tool in GDrive.
 
 Otherwise, you can import this repository directly from [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb). Go to [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb), File->Open notebook -> Github.
 
 You are welcome to reuse this material in other courses or schools, but please reach out to contact@eeml.eu if you plan to do so.
-
 
 
 

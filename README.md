@@ -2,7 +2,7 @@
 
 ### by Viorica Patraucean
 
-The exercise in this repository covers basics about supervised machine learning, exemplified on image classification for MNIST dataset.
+The exercise in this repository covers basics about supervised machine learning, illustrated on image classification for MNIST dataset.
 
 The slides of the presentation from Galaciuc are [here](https://drive.google.com/open?id=1211d4EOPZf_9MOFSwiNpbMdOYV2AVZSL3I7xePwxB2s).
 

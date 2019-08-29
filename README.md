@@ -1,6 +1,6 @@
 # Artificial Intelligence for HighSchool (AI4HS)
 
-### by Viorica Patraucean
+### by 
 
 This repository contains exercises for the course **Artificial Intelligence for HighSchool**.
 

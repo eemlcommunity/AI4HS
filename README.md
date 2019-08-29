@@ -2,19 +2,17 @@
 
 ### by Viorica Patraucean
 
-The exercise in this repository covers basics about supervised machine learning, illustrated on image classification for MNIST dataset.
+This repository contains exercises for the course **Artificial Intelligence for HighSchool**.
 
-The slides of the presentation from Galaciuc are [here](https://drive.google.com/open?id=1211d4EOPZf_9MOFSwiNpbMdOYV2AVZSL3I7xePwxB2s).
+The slides for the course are available [here](https://docs.google.com/presentation/d/18asJJTerSX0e28n5VKxdE1bsOoVKG0pS2bGl_f7ow8w/edit?usp=sharing).
 
 Use [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb) to view, edit, and run the code.
 
-Please download the code and place it in your Google Drive. The simplest way to do this is to check out the git repository, then use the "Folder Upload" tool in GDrive.
+Please import this repository directly from [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb). Go to [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb), File->Open notebook -> Github.
 
-Otherwise, you can import this repository directly from [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb). Go to [Colab](https://colab.sandbox.google.com/notebooks/welcome.ipynb), File->Open notebook -> Github.
+Alternatively, you can download the code and place it in your Google Drive. The simplest way to do this is to check out the git repository, then use the "Folder Upload" tool in GDrive.
 
 You are welcome to reuse this material in other courses or schools, but please reach out to contact@eeml.eu if you plan to do so.
-
-
 
 MIT License
 
